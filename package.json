@@ -1,0 +1,41 @@
+{
+  "name": "HomeAssistant",
+  "version": "0.6.1",
+  "description": "Home Assistant Electon app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "build": {
+    "appId": "com.electron.homeassistant",
+    "mac": {
+      "category": "public.app-category.lifestyle",
+      "target": "dmg",
+      "icon": "home_assistant_logo.icns",
+      "darkModeSupport": true,
+      "extendInfo": "info.plist",
+      "extraDistFiles": "images",
+      "type": "distribution"
+    }
+  },
+  "repository": "https://github.com/bskaplou/home-assistant-electron",
+  "keywords": [
+    "HomeAssistant"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "bonjour": "^3.5.0",
+    "electron-store": "^5.1.1",
+    "lodash": "^4.0.0",
+    "prettier": "^2.0.5",
+    "uuid": "^7.0.3",
+    "ws": "^7.2.0"
+  },
+  "devDependencies": {
+    "@mdi/svg": "^5.1.45",
+    "electron-builder": "^22.6.0",
+    "electron": "^8.2.3"
+  }
+}
