@@ -18,7 +18,7 @@ ls dist
 ## Features
 ### Menu 
 
-I mostly use home assistant web interface on desktop for configuration/reconfiguration/adding new devices. What's why menu allows to see entities and it's states instantly. You will jump to full state info in home assistant web interface by clicking on entity.
+I mostly use home assistant web interface on desktop for configuration/reconfiguration/adding new devices. That's why menu allows to see entities and it's states instantly. You will jump to full state info in home assistant web interface by clicking on entity.
 
 ![states-menu](https://uc97731418f7d045a4050b97c2ff.previews.dropboxusercontent.com/p/thumb/AAxA2sfAgins_3w5paGqDffke_h8rZ84uppEFaS_pFbSVsEZtng-qjs8XkPhkPc54sKcI89SSQaagpAYRALqAfVaj18AYSt-Ah21LG0VXto6PNMUcoxmgc8_9yZORzu8HquhOnSAhZWrSBpNDrkELM5HC4X2NTvdq3bN-VCvDnHYuEuQUrxnh1FDi8ByBA7lzQ-xSrj119QAUxa2X_n9SW7Gq4LOrROSQXQjp4wj9kDfnlowZ4XBXfh6JV6OLcbVJzkqKoZeTrm4S7Rs_Y5xzXSXcogl-Vbv3ZdyfXEsMOPaQ6rsyXPbgZNNSN_gfj4TrdrARPmLCa6Cen9Pzq0Mftl8H1D7B1nNdfRjRKp_rrXAmVOOEa9kdBEquVoO3dtdb52IQxiIz7Z_p4S3tGkdx96hlaOPoYm7h48AVSnILiuLftUHIYrHjdp7kjNx47yf93LkBlJUss9e5kkCYkyQCVSZg6rFov2cS1FYrKn9HZJzrQ/p.png?fv_content=true&size_mode=5)
 
