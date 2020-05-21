@@ -1,18 +1,20 @@
 # Home Assistant Electron
 
-##  Getting started
- Start an app, it will get address of Home Assistant with auto-discovery 
- Click on host to open new window
- 
-![Connect to hass](https://uc573751f7f2c84191a4d15cec5d.previews.dropboxusercontent.com/p/thumb/AAx_0yZJmGMox_PjYrficw6EYacK_RLfaXDwjZ3ip9NTdAOTXcCv3oLLkQxzhRB1CsBLVWLROQN9TyqTp6Cxo1Sp267X484xh_dqTX5Htch5ubarkez2yCYvTtoswBxjzIZSoIwWySlobTeI7RrLIgGR9goZNF0oEkHi-ZRtTyKLCUdaKN6K0-EY7WSlFOPJUyoZLHNO0QEOWJYQiQW4X3byY4F9A0EiTt_yhXrzsFXHL6gWYStSNIzOaxYvInw6cgoe35O7HWJU5p6ivMtFO9ViuZxAhMlKF_mkSP3zUfUZXg49cQALYGQYDrvYwy1aB3jvda77DRs3_CN8qy5wRMCjNJTFAmjYgmcQ0ZjhqLgb4m33kenpDZW9YCPSjixJVBfouNxk6v0aH3b7ovjSeg-pWiPG2xtkOYZgGZ-9UW-9HIef0K8eNYPj2yRruyS6p4HDswYJ6dR9NzlH6F7qzqRouJdhzPlHHuZmkgQAALRvxQ/p.png?fv_content=true&size_mode=5)
+## Getting an app
 
-
-## How to build
+Download https://www.dropbox.com/s/cd1160zyu4icur6/HomeAssistant-0.6.1.dmg?dl=1
+Or build it 
 ```
 npm install
 npm run dist
 ls dist
 ```
+
+##  Getting started
+ Start an app, it will get address of Home Assistant with auto-discovery 
+ Click on host to open new window
+ 
+![Connect to hass](https://uc573751f7f2c84191a4d15cec5d.previews.dropboxusercontent.com/p/thumb/AAx_0yZJmGMox_PjYrficw6EYacK_RLfaXDwjZ3ip9NTdAOTXcCv3oLLkQxzhRB1CsBLVWLROQN9TyqTp6Cxo1Sp267X484xh_dqTX5Htch5ubarkez2yCYvTtoswBxjzIZSoIwWySlobTeI7RrLIgGR9goZNF0oEkHi-ZRtTyKLCUdaKN6K0-EY7WSlFOPJUyoZLHNO0QEOWJYQiQW4X3byY4F9A0EiTt_yhXrzsFXHL6gWYStSNIzOaxYvInw6cgoe35O7HWJU5p6ivMtFO9ViuZxAhMlKF_mkSP3zUfUZXg49cQALYGQYDrvYwy1aB3jvda77DRs3_CN8qy5wRMCjNJTFAmjYgmcQ0ZjhqLgb4m33kenpDZW9YCPSjixJVBfouNxk6v0aH3b7ovjSeg-pWiPG2xtkOYZgGZ-9UW-9HIef0K8eNYPj2yRruyS6p4HDswYJ6dR9NzlH6F7qzqRouJdhzPlHHuZmkgQAALRvxQ/p.png?fv_content=true&size_mode=5)
 
 ## Features
 ### Menu 
