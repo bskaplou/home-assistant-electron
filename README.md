@@ -2,8 +2,7 @@
 
 ## Getting an app
 
-Download https://www.dropbox.com/s/cd1160zyu4icur6/HomeAssistant-0.6.1.dmg?dl=1
-Or build it 
+Download https://www.dropbox.com/s/cd1160zyu4icur6/HomeAssistant-0.6.1.dmg?dl=1 or build it 
 ```
 npm install
 npm run dist
