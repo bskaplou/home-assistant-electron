@@ -17,6 +17,14 @@ ls dist
 ## Features
 ### Menu 
 
+I mostly use home assistant web interface on desktop for configuration/reconfiguration/adding new devices. What's why menu allows to see entities and it's states instantly. You will jump to full state info in home assistant web interface by clicking on entity.
+
+![states-menu](https://uc97731418f7d045a4050b97c2ff.previews.dropboxusercontent.com/p/thumb/AAxA2sfAgins_3w5paGqDffke_h8rZ84uppEFaS_pFbSVsEZtng-qjs8XkPhkPc54sKcI89SSQaagpAYRALqAfVaj18AYSt-Ah21LG0VXto6PNMUcoxmgc8_9yZORzu8HquhOnSAhZWrSBpNDrkELM5HC4X2NTvdq3bN-VCvDnHYuEuQUrxnh1FDi8ByBA7lzQ-xSrj119QAUxa2X_n9SW7Gq4LOrROSQXQjp4wj9kDfnlowZ4XBXfh6JV6OLcbVJzkqKoZeTrm4S7Rs_Y5xzXSXcogl-Vbv3ZdyfXEsMOPaQ6rsyXPbgZNNSN_gfj4TrdrARPmLCa6Cen9Pzq0Mftl8H1D7B1nNdfRjRKp_rrXAmVOOEa9kdBEquVoO3dtdb52IQxiIz7Z_p4S3tGkdx96hlaOPoYm7h48AVSnILiuLftUHIYrHjdp7kjNx47yf93LkBlJUss9e5kkCYkyQCVSZg6rFov2cS1FYrKn9HZJzrQ/p.png?fv_content=true&size_mode=5)
+
+You can also edit and reload scripts/automations/scenes and event restart server using menu.
+
+Theme switching here as well :) 
+
 ![menu](https://ucd1a7f001e3b6d2e959a34ebc46.previews.dropboxusercontent.com/p/thumb/AAzfuvRvz1UwlU0nsnxKxczxnQIpj2C7hu6k5c-QaIJ6FktRCCaQNNjrbtl11tzm2IQBkZ2_9StcVxqG8bIZwpkOPeXE3DaeRunRdWZ9tBz1UVhXqXUdLKAtcTJ8QBohEJryh3nWC8dun2u-MIL0Mydia3BuibKTiQ_fiU6xK_2V3-htzR5S4bjGCfPS7N_A94kR6zOp7GAs9NvCytVlj2MjUq4eqDFpgwAtd8ttkkxpHPrNX_gUx1f0B_NlQM1CY10bN7vHKkNWCRrwVbNlKKCddbNvqRTvB0qlDqwdKz2OlF689EAojqciimSCyo9M3NuvAJD7mofzcV9NTWySA4dsCY5qsmW48HomzWnkXPoQVH0LjXInlideaCt-tf8QIBWMXFC-RZR71Pweh8TQhvmnESJ6KXrYqD91Hhlm97CvW6V1w25nPu4HQ-katmkE5OLi_MrmooI_S2v500VSkSwJ4U1-cVUW-zicI4XIU0mSMQ/p.png?fv_content=true&size_mode=5)
 
 ### Notifications
