@@ -20,7 +20,7 @@ ls dist
 
 I mostly use home assistant web interface on desktop for configuration/reconfiguration/adding new devices. That's why menu allows to see entities and it's states instantly. You will jump to full state info in home assistant web interface by clicking on entity.
 
-![states-menu](https://user-images.githubusercontent.com/877976/82748939-7faaed00-9dae-11ea-90bb-37f7a14ea26b.png)
+![states-menu](https://user-images.githubusercontent.com/877976/82749027-137cb900-9daf-11ea-8265-0231f839fb75.png)
 
 You can also edit and reload scripts/automations/scenes and event restart server using menu.
 
